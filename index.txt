@@ -1,5 +1,15 @@
 Hi 
+<<<<<<< .mine
 this is as-001 comit code i want to this 
+=======
+this is as-001 comit code i want to this 
+>>>>>>> .theirs
+this is as-001 coomit second commit 
 Hi 
+<<<<<<< .mine
 this is my main second commit 
 this is my main second coomit second option 
+=======
+
+
+>>>>>>> .theirs
