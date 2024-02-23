@@ -21,6 +21,22 @@ this is my main second coomit second option
 this is as-001 comit code i want to this 
 this is as-001 coomit second commit 
 >>>>>>> Stashed changes
+<<<<<<< .mine
+
+Thank you 
+
+
+
+
+
+
+
+
+
+
+
+
+=======
 =======
 
 
@@ -34,4 +50,5 @@ this is as-001 coomit second commit
 
 
 
+>>>>>>> .theirs
 >>>>>>> .theirs
