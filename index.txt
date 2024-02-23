@@ -1,4 +1,5 @@
 Hi 
+<<<<<<< Updated upstream
 <<<<<<< .mine
 this is as-001 comit code i want to this 
 =======
@@ -13,3 +14,7 @@ this is my main second coomit second option
 
 
 >>>>>>> .theirs
+=======
+this is as-001 comit code i want to this 
+this is as-001 coomit second commit 
+>>>>>>> Stashed changes
